@@ -8,7 +8,7 @@ url: http://heiswayi.github.io/thinkspace # site url
 baseurl: "/hptechguy.github.io" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
+google_analytics: UA-89360024-1
 repo: http://github.com/heiswayi/thinkspace
 disqus_shortname: "heiswayi"
 twitter_username: "HeiswayiNrird"
@@ -31,7 +31,7 @@ sass:
 author:
   name     : "Hong Phat Ly"
   job      : "(Senior) Software Engineer, Web Developer, Full Stack Developer, Team Leader, Security Researcher"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
+  bio      : "I have ever worked on a lot of various projects and applications at Viettel Corporation and TMA Solutions. Additionally, I developed some of personal projects and found some security bugs for United Airlines, Nahi JSC, Namecheap, etc..."
   thumb    : /images/author.jpg
   email    : phat.ly.27@gmail.com
   url      : http://hptechguy.github.io
