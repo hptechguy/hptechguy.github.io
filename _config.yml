@@ -5,8 +5,8 @@ title2: "techguy" # default: ""
 description: "(senior) software engineer - web developer - full stack developer - ."
 keywords: "hptechguy, techguy, js, javascript, web, security, researcher, jquery, .net, .net framework, angularjs, reactjs, data and algorithm, computer science, full stack, front-end, back-end, information technology, database, ly hong phat, hong phat ly, phat ly."
 url: http://heiswayi.github.io/thinkspace # site url
-baseurl: "/hptechguy.github.io" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+#baseurl: "/hptechguy.github.io" # apply repo name if use it under gh-pages branch
+baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-89360024-1
 repo: http://github.com/heiswayi/thinkspace
