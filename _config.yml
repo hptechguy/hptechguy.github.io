@@ -10,8 +10,8 @@ baseurl: "/hptechguy.github.io" # apply repo name if use it under gh-pages branc
 
 google_analytics: UA-89360024-1
 repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "heiswayi"
-twitter_username: "HeiswayiNrird"
+disqus_shortname: "hptechguy"
+twitter_username: "_hptechguy"
 comments: true 
 
 # Build settings
@@ -36,14 +36,14 @@ author:
   email    : phat.ly.27@gmail.com
   url      : http://hptechguy.github.io
   github   : http://github.com/hptechguy
-  twitter  : http://twitter.com/zerobitsecurity
+  twitter  : http://twitter.com/_hptechguy
   facebook : https://www.facebook.com/profile.php?id=1257583160
   linkedin : http://linkedin.com/in/nrird
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@_hptechguy"
 
 gems:
   - bourbon
