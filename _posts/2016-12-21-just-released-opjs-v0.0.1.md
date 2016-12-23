@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Just released opjs v0.0.1"
+title: "Just released opjs v0.1.0"
 description: "a simple and lightweight Javascript library to implement SPA Architecture"
 comments: true
 keywords: "opjs, js, javascript, opjs v0.0.1, javascript library, js library"
