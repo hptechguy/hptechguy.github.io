@@ -12,4 +12,4 @@ Basically, SQL Server Management Studio didn't support us to open large SQL Scri
 
 [![big sql script runner tool](http://download-codeplex.sec.s-msft.com/Download?ProjectName=bigsqlrunner&DownloadId=713703 "Big SQL Script Runner Tool")](http://download-codeplex.sec.s-msft.com/Download?ProjectName=bigsqlrunner&DownloadId=713703)
 
-Hope that you enjoy this utility. More details at: [https://bigsqlrunner.codeplex.com/](https://bigsqlrunner.codeplex.com/) Happy Coding!
+Hope that you enjoy this utility. More details at: [https://bigsqlrunner.codeplex.com/](https://bigsqlrunner.codeplex.com/). Happy Coding!
