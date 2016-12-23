@@ -51,6 +51,8 @@ gems:
 
 # navbar pages
 navbar:
+  - slug: rewards
+    title: Rewards
   - slug : about
     title: About
   - slug : blog
