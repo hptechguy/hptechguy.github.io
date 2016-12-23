@@ -63,7 +63,9 @@ create a HTML web page with routes as follows:
         })(window);
     </script>
 </body>
+
 </html>
+
 ```
 
 ### In Conclusion
