@@ -14,14 +14,14 @@ __GoogleRecaptcha__
 
 A .NET library used to integrate the Google Captcha into the web applications on the asp.net platform.
 
-[https://github.com/congdongdotnet/ViewStateOptimizer](https://github.com/congdongdotnet/ViewStateOptimizer)
+[https://github.com/congdongdotnet/GoogleRecaptcha](https://github.com/congdongdotnet/GoogleRecaptcha)
 
 __ViewStateOptimizer__
 
 A .NET library used to optimize the ViewState for the asp.net web forms platform.
 It will include a set of the best methods to improve the performance for the asp.net web forms when using ViewState.
 
-[https://github.com/congdongdotnet/GoogleRecaptcha](https://github.com/congdongdotnet/GoogleRecaptcha)
+[https://github.com/congdongdotnet/ViewStateOptimizer](https://github.com/congdongdotnet/ViewStateOptimizer)
 
 __WebDbConnector__
 
