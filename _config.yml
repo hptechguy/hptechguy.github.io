@@ -51,6 +51,8 @@ gems:
 
 # navbar pages
 navbar:
+  - slug: projects
+    title: Projects
   - slug: rewards
     title: Rewards
   - slug : about
