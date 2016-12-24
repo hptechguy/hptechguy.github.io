@@ -4,7 +4,7 @@ title: "hp"
 title2: "techguy" # default: ""
 description: "(senior) software engineer - web developer - full stack developer - team leader - security researcher."
 keywords: "hptechguy, techguy, js, javascript, web, security, researcher, jquery, .net, .net framework, angularjs, reactjs, data and algorithm, computer science, full stack, front-end, back-end, information technology, database, ly hong phat, hong phat ly, phat ly."
-url: http://heiswayi.github.io/thinkspace # site url
+url: http://hptechguy.github.io # site url
 #baseurl: "/hptechguy.github.io" # apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
 
@@ -37,8 +37,8 @@ author:
   url      : http://hptechguy.github.io
   github   : http://github.com/hptechguy
   twitter  : http://twitter.com/_hptechguy
-  facebook : https://www.facebook.com/profile.php?id=1257583160
-  linkedin : http://linkedin.com/in/nrird
+  facebook : https://www.facebook.com/hptechguy.27
+  linkedin : https://linkedin.com/in/hong-phat-ly-567227121
 
 # social settings
 og_locale: "en_US"
@@ -51,6 +51,8 @@ gems:
 
 # navbar pages
 navbar:
+  - slug: research
+    title: Research
   - slug: projects
     title: Projects
   - slug: rewards
